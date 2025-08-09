@@ -22,6 +22,8 @@ div.card img.card-image-mobile {
 div.card img.card-image-desktop {
   border-top-left-radius: 1rem;
   border-bottom-left-radius: 1rem;
+  width: 50%;
+  height: 100%;
 }
 div.card div.card-content {
   padding: 2rem;
@@ -36,6 +38,7 @@ div.card span.sub {
 }
 div.card h1 {
   color: hsl(212, 21%, 14%);
+  font-family: Fraunces, serif;
   font-size: 2rem;
   margin-bottom: 2rem;
 }
